@@ -1,14 +1,14 @@
 ---
 author:
-  - name: Sidney Verba
-    url: https://en.wikipedia.org/wiki/Sidney_Verba
-    email: "example@harvard.edu"
+  - name: Boris Shor
+    url: https://bshor.github.io
+    email: "bshor@uh.edu"
     degrees:
       - PhD
     affiliations:
-      - name: Harvard University
-        department: Department of Government
-    title: "Carl H. Pforzheimer University Professor (Emeritus)"
+      - name: University of Houston
+        department: Department of Political Science
+    title: Yelderman Chair
 date: today
 format:
   cv-typst:
